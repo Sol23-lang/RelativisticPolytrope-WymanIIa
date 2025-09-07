@@ -19,6 +19,52 @@ Analizar el intercambio energético relativista entre un politropo y un fluido t
 - Analizar el intercambio energético de ambas fuentes gravitacionales.
 ## Formulación de la incógnita
 **¿Cuál es la naturaleza del intercambio energético entre un politropo relativista y un fluido tipo Wyman IIa, y cómo afecta este intercambio a la estabilidad del sistema?**
+# Resultados del Intercambio Energético en Estrellas Compactas
+
+## 📚 Revisión y metodología
+- Se revisaron conceptos fundamentales del **intercambio energético en fluidos relativistas** usando **desacoplamiento gravitacional (GD por MGDe)**.  
+- Se utilizó un **fluido isótropo tipo Wyman IIa** como semilla en el algoritmo analítico, permitiendo determinar g'(r).  
+- Se desarrolló un **modelo físico-numerico en Matlab**, asignando valores a constantes **A, B, c, K, R, n** para integrar g(x) y generar configuraciones realistas de estrellas de neutrones.
+
+---
+
+## ⭐ Configuraciones y estabilidad
+- Se generaron **3 configuraciones**, consistentes con criterios físicos.  
+- **2 cumplen la Condición de Energía Fuerte (SEC):**  
+  - g₁ ≈ -1.638 (K = 0.44)  
+  - g₂ ≈ -3.121 (K = 0.47)  
+- Conclusión: Valores de g en **[-1.638, -3.121]** garantizan estabilidad.  
+- Se recomienda explorar más configuraciones para analizar rangos precisos de estabilidad.
+
+---
+
+## 🔹 Anisotropía
+- La **anisotropía Π = p_t - p_r** aumenta con el radio r.  
+- Presión tangencial > presión radial en regiones externas.  
+- Cambios bruscos en Π cuando la **SEC no se cumple**, afectando estabilidad y evolución.  
+- Alta anisotropía puede prevenir colapsos o alterar la dinámica del sistema.
+
+---
+
+## ⚡ Intercambio energético
+- Configuraciones con SEC cumplida: patrones energéticos **ordenados**.  
+- Configuraciones sin SEC: distribución energética **más dispersa**.  
+- Centro del objeto: Π ≈ 0 → ΔE ≈ 0  
+- Zonas externas: anisotropía y ΔE aumentan → mayor intercambio energético.
+
+---
+
+## 🔧 Factor de compacticidad
+- Objetos más compactos (u ~ 0.3-0.35): Π y ΔE **altos**, flujos energéticos activos.  
+- Objetos menos compactos (u ~ 0.17): Π y ΔE bajos.  
+- Variaciones en **K** afectan significativamente ΔE y Π → K es determinante en comportamiento energético y anisotrópico.
+
+---
+
+## 📌 Conclusión
+- La **SEC** regula el intercambio energético y la anisotropía.  
+- La **compacticidad y K** son factores clave para estabilidad y dinámica de objetos estelares compactos.  
+- El modelo permite generar configuraciones físicamente realistas de **estrellas de neutrones**, contribuyendo al estudio de objetos compactos en condiciones extremas.
 
 ## Referencias
 
