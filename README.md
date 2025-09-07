@@ -3,8 +3,6 @@ Análisis del intercambio de energía entre un politropo relativista y un fluido
 # Descripción del Proyecto
 # Intercambio Energético entre un Politropo Relativista y un Fluido Wyman IIa
 
-# Enunciado del problema
-
 Una estrella es una esfera de gas, principalmente hidrógeno, en equilibrio entre la **gravedad**, que tiende a comprimirla, y la **presión del gas de plasma caliente** generado por reacciones nucleares, que tiende a expandirla. Las colisiones moleculares calientan la nube hasta que se alcanzan las condiciones para la **fusión termonuclear**, liberando gran cantidad de energía y aumentando la presión, temperatura y velocidad de las partículas, lo que retroalimenta las reacciones nucleares.  
 
 Estas estrellas pueden evolucionar hasta fases finales como **remanentes estelares**, donde los efectos gravitacionales son fundamentales y son estudiados dentro del marco de la **Teoría de la Relatividad General (TRG)**. Modelar estos cuerpos es un tema central en astrofísica teórica, utilizando soluciones analíticas de las **ecuaciones de campo de Einstein** para describir su estructura interna. Generalmente, estos modelos consideran a los cuerpos como **fluidos relativistas perfectos**, cuyas características internas están determinadas por las ecuaciones de Einstein.  
