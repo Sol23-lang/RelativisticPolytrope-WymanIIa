@@ -12,12 +12,12 @@ Entre los fenómenos menos estudiados en detalle se encuentra la **interacción 
 ## Objetivo del proyecto
 
 Analizar el intercambio energético relativista entre un politropo y un fluido tipo Wyman IIa.
-## Formulación de la incógnita
 ## Objetivo Específico
 - Realizar un estudio bibliográfico del intercambio energético entre fluidos relativistas.
 - Estudiar el desacople gravitacional por deformación mínima extendida.
 - Emplear la semilla de fluido isótropo de tipo Wyman IIa en el algoritmo desarrollado por Ovalle para resolver nuestro problema.
-- Analizar el intercambio energético de ambas fuentes gravitacionales
+- Analizar el intercambio energético de ambas fuentes gravitacionales.
+## Formulación de la incógnita
 **¿Cuál es la naturaleza del intercambio energético entre un politropo relativista y un fluido tipo Wyman IIa, y cómo afecta este intercambio a la estabilidad del sistema?**
 
 ## Referencias
