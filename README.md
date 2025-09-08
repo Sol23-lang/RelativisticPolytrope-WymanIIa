@@ -92,7 +92,7 @@ Este proyecto utiliza la **semilla de fluido isótropo tipo Wyman IIa** y el alg
 
 ---
   
-👉 [Si deseas ver el póster](Póster_OAQ (1).pdf)
+👉 [Si deseas ver el póster](Póster_OAQ.pdf)
 
 
-👉 [Si deseas ver la tesis completa](Póster_OAQ (1).pdf)
+👉 [Si deseas ver la tesis completa](Póster_OAQ.pdf)
