@@ -102,4 +102,4 @@ Este proyecto utiliza la **semilla de fluido isótropo tipo Wyman IIa** y el alg
 👉 [Mira el póster de este proyecto](Póster_OAQ.pdf)
 
 
-👉 [Mira el trabajo completa](Póster_OAQ.pdf)
+👉 [Mira el trabajo completa](INTERCAMBIO ENERGETICO ENTRE UN POLITROPO Y UN FLUIDO TIPO WYMAN IIA.pdf)
