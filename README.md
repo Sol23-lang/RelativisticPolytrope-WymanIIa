@@ -91,5 +91,8 @@ Este proyecto utiliza la **semilla de fluido isótropo tipo Wyman IIa** y el alg
 - El modelo permite generar configuraciones físicamente realistas de **estrellas de neutrones**, contribuyendo al estudio de objetos compactos en condiciones extremas.
 
 ---
+  
+👉 [Si deseas ver el póster](Póster_OAQ (1).pdf)
 
-![Demo](Póster_OAQ (1).pdf)
+
+👉 [Si deseas ver la tesis completa](Póster_OAQ (1).pdf)
