@@ -92,10 +92,4 @@ Este proyecto utiliza la **semilla de fluido isótropo tipo Wyman IIa** y el alg
 
 ---
 
-## 📖 Referencias
-
-1. Energy-exchange-between-relativistic-fluids: the polytropic case key  
-2. Carrasco-Hidalgo & Contreras  
-3. Maurya et al., 2022  
-4. Lohakare et al., 2023  
-5. Ovalle, 2017
+![Demo](Póster_OAQ(1))
