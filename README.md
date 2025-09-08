@@ -91,8 +91,15 @@ Este proyecto utiliza la **semilla de fluido isótropo tipo Wyman IIa** y el alg
 - El modelo permite generar configuraciones físicamente realistas de **estrellas de neutrones**, contribuyendo al estudio de objetos compactos en condiciones extremas.
 
 ---
-  
-👉 [Si deseas ver el póster](Póster_OAQ.pdf)
+## 📖 Referencias
+
+1. Energy-exchange-between-relativistic-fluids: the polytropic case key  
+2. Carrasco-Hidalgo & Contreras  
+3. Maurya et al., 2022  
+4. Lohakare et al., 2023  
+5. Ovalle, 2017
+---  
+👉 [Para ver el póster de este proyecto](Póster_OAQ.pdf)
 
 
-👉 [Si deseas ver la tesis completa](Póster_OAQ.pdf)
+👉 [Si deseas ver el trabajo completa](Póster_OAQ.pdf)
