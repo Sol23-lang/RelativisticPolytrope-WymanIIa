@@ -99,7 +99,7 @@ Este proyecto utiliza la **semilla de fluido isótropo tipo Wyman IIa** y el alg
 4. Lohakare et al., 2023  
 5. Ovalle, 2017
 ---  
-👉 [Para ver el póster de este proyecto](Póster_OAQ.pdf)
+👉 [Mira el póster de este proyecto](Póster_OAQ.pdf)
 
 
-👉 [Si deseas ver el trabajo completa](Póster_OAQ.pdf)
+👉 [Mira el trabajo completa](Póster_OAQ.pdf)
