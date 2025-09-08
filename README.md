@@ -103,3 +103,8 @@ Este proyecto utiliza la **semilla de fluido isótropo tipo Wyman IIa** y el alg
 
 
 👉 [Mira el trabajo completa](INTERCAMBIO_ENERGETICO.pdf)
+
+
+👉 [Análisis de uno de los modelos](K=0.1_y_u=0.3401_IE.pdf)
+
+**Para saber más acerca del código, comunicate conmigo
